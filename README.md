@@ -1,2 +1,2 @@
 # DescriptiveStatisticsCaseStudy
-A case study that I did on my using descriptive statistics.
+A case study that I did on my own using descriptive statistics.
